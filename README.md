@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wzwzx
 - 🏫 I'm a student
-- 👦🏻 I'm 16 years old
+- 👦🏻 I'm 17 years old
 ***
 - exTHmUI Maintainer for Redmi Note 8 Pro
 - I am a student from China,I studied at Chongqing municipality electromechanical technical school
