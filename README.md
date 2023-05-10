@@ -8,4 +8,4 @@
 - You can contact me using telegram
 - https://t.me/wzwzx_wz
 - This is my blog
-- https://blog.wzwzx.cn
+- https://blog.danll.icu
