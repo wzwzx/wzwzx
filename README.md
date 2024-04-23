@@ -2,6 +2,7 @@
  - ~~Call me by your name~~ wzwzx
 ## 💻 Working environment
 [![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows11&logoColor=ffffff)](#)<br>
+[![Android 11](https://img.shields.io/badge/Android%2011-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-11/)<br>
 [![Android 12](https://img.shields.io/badge/Android%2012-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-12/)<br>
 [![Android 14](https://img.shields.io/badge/Android%2014-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-14/)<br>
 ## 📱 Devices in use
@@ -9,4 +10,4 @@
 [![Oneplus Ace](https://img.shields.io/badge/ONEPLUS%20ACE-red?style=flat-square&logo)](./#)<br>
 
 ## Hi!There
- - Student,17 years old,a boy and I like boys
+ - Student,18 years old,a boy and I like boys
